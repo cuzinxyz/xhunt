@@ -13,8 +13,8 @@ import SocialList from '../components/SocialList.vue'
         class="mb-14 flex flex-wrap items-center justify-center gap-10 sm:mb-20 sm:gap-20"
       >
         <img
-          src="/ngoquocdat.webp"
-          alt="Ngo Quoc Dat"
+          src="/xhunt.png"
+          alt="NHAT DO HUU"
           class="size-32 rounded-full sm:size-40"
         />
         <div class="group">
@@ -27,7 +27,7 @@ import SocialList from '../components/SocialList.vue'
           <h2
             class="text-[2.75rem] font-black transition-all group-hover:translate-x-1 sm:text-7xl"
           >
-            Ngo Quoc Dat
+            NHAT DO HUU
           </h2>
         </div>
       </div>

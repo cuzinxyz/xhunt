@@ -12,51 +12,51 @@ import ArrowTopRightOnSquare from '../components/Icons/ArrowTopRightOnSquare.vue
   <main class="min-h-screen bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100">
     <div class="mx-auto max-w-4xl px-6 py-12 print:py-6">
       <header class="mb-12 grid grid-cols-1 gap-8 md:grid-cols-[auto,1fr]">
-        <img src="/ngoquocdat.webp" alt="Ngo Quoc Dat" class="h-28 w-28 rounded-full object-cover" />
+        <img src="/xhunt.png" alt="NHAT DO HUU" class="h-28 w-28 rounded-full object-cover" />
         <div>
           <div class="flex flex-col justify-between gap-4 md:flex-row">
             <div>
-              <h1 class="mb-2 text-3xl font-bold">Ngo Quoc Dat</h1>
+              <h1 class="mb-2 text-3xl font-bold">NHAT DO HUU</h1>
               <div class="mb-4 text-lg text-gray-600 dark:text-gray-400">Software Developer</div>
               <p class="mb-2 max-w-2xl text-base leading-relaxed text-gray-600 dark:text-gray-400">
-                Web developer with 3+ years experience building web applications, specializing in fintech and payment solutions. Active open-source contributor with multiple popular packages for Laravel and Flarum communities. Specialized in Laravel and modern JavaScript frameworks. Developed fintech solutions at SePay and contributed to Botble CMS marketplace.
+                With a solid foundation in PHP development, I am proficient in building and maintaining web applications using the Laravel framework and developing custom extensions for the Flarum forum platform. I am continuously eager to learn new technologies and improve my skills to stay updated with industry trends. My goal in each project is to leverage my knowledge and passion for coding to contribute to the creation of high-quality, scalable web solutions.
               </p>
             </div>
             <ul class="space-y-2 text-sm">
               <li>
                 <div class="inline-flex items-center gap-2">
                   <CalendarIcon class="size-4" />
-                  Apr 24, 2003
+                  Aug 23, 2003
                 </div>
               </li>
               <li>
-                <a href="mailto:hi@ngoquocdat.dev" class="inline-flex items-center gap-2">
+                <a href="mailto:hi@xhunt.io.vn" class="inline-flex items-center gap-2">
                   <AtSymbolIcon class="size-4" />
-                  hi@ngoquocdat.dev
+                  hi@xhunt.io.vn
                 </a>
               </li>
               <li>
-                <a href="tel:0372124043" class="inline-flex items-center gap-2">
+                <a href="tel:0961472726" class="inline-flex items-center gap-2">
                   <PhoneIcon class="size-4" />
-                  0372124043
+                  0961472726
                 </a>
               </li>
               <li>
-                <a href="https://nqd.vn" class="inline-flex items-center gap-2">
+                <a href="https://xhunt.io.vn" class="inline-flex items-center gap-2">
                   <GlobeAltIcon class="size-4" />
-                  nqd.vn
+                  xhunt.io.vn
                 </a>
               </li>
               <li>
-                <a href="https://github.com/datlechin" target="_blank" class="inline-flex items-center gap-2">
+                <a href="https://github.com/cuzinxyz" target="_blank" class="inline-flex items-center gap-2">
                   <GitHubIcon class="size-4" />
-                  datlechin
+                  cuzinxyz
                 </a>
               </li>
               <li>
                 <div class="inline-flex items-center gap-2">
                   <MapPinIcon class="size-4" />
-                  Ho Chi Minh City, Vietnam
+                  Hanoi Capital, Vietnam
                 </div>
               </li>
             </ul>
@@ -71,10 +71,10 @@ import ArrowTopRightOnSquare from '../components/Icons/ArrowTopRightOnSquare.vue
             <div class="space-y-8">
               <div>
                 <div class="mb-2 flex flex-wrap items-baseline justify-between gap-2">
-                  <h3 class="text-lg font-semibold">SePay</h3>
-                  <span class="text-sm text-gray-600 dark:text-gray-400">2024 Aug - Present</span>
+                  <h3 class="text-lg font-semibold">Newwave Solutions</h3>
+                  <span class="text-sm text-gray-600 dark:text-gray-400">2024 Apr - Present</span>
                 </div>
-                <h4 class="mb-3 text-base text-gray-600 dark:text-gray-400">PHP Developer</h4>
+                <h4 class="mb-3 text-base text-gray-600 dark:text-gray-400">Backend Developer</h4>
                 <ul class="space-y-2 text-sm text-gray-600 dark:text-gray-400">
                   <li>Developing and maintaining payment systems using CI4</li>
                   <li>Designing and implementing API integrations with major Vietnamese banks</li>
@@ -82,18 +82,6 @@ import ArrowTopRightOnSquare from '../components/Icons/ArrowTopRightOnSquare.vue
                   <li>Developing SDKs and plugins for third-party payment services</li>
                   <li>Writing unit and integration tests to ensure code quality and reliability</li>
                   <li>Implementing secure financial transactions and payment processing workflows</li>
-                </ul>
-              </div>
-              <div>
-                <div class="mb-2 flex flex-wrap items-baseline justify-between gap-2">
-                  <h3 class="text-lg font-semibold">Archi Elite</h3>
-                  <span class="text-sm text-gray-600 dark:text-gray-400">2022 Oct - 2024 May</span>
-                </div>
-                <h4 class="mb-3 text-base text-gray-600 dark:text-gray-400">Software Developer</h4>
-                <ul class="space-y-2 text-sm text-gray-600 dark:text-gray-400">
-                  <li>Developed and improved Botble CMS core features and marketplace platform</li>
-                  <li>Built projects related to Job Board, E-commerce, Real Estate using Botble CMS</li>
-                  <li>Participated in building internal company & community tools</li>
                 </ul>
               </div>
             </div>

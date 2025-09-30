@@ -13,22 +13,22 @@ const socials: SocialLink[] = [
     icon: DocumentIcon,
   },
   {
-    href: 'https://github.com/datlechin',
+    href: 'https://github.com/cuzinxyz',
     title: 'GitHub',
     icon: GitHubIcon,
   },
   {
-    href: 'https://x.com/datlechin',
+    href: 'https://x.com/cuzinxyz',
     title: 'Twitter',
     icon: XIcon,
   },
   {
-    href: 'https://facebook.com/ngoquocdatne',
+    href: 'https://facebook.com/thocodedao',
     title: 'Facebook',
     icon: FacebookIcon,
   },
   {
-    href: 'https://instagram.com/ngoquocdatne',
+    href: 'https://instagram.com/thocodedao',
     title: 'Instagram',
     icon: InstagramIcon,
   },
